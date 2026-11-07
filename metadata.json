@@ -1,0 +1,6 @@
+{
+  "name": "GREEN WAQF",
+  "description": "Aplikasi Bank Sampah digital MAN 1 Yogyakarta berbasis QR Code untuk pencatatan setoran, tabungan sampah, rekapitulasi, leaderboard 27 kelas, tips edukasi daur ulang, modul game edukatif pilah sampah, dan pengingat jadwal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
